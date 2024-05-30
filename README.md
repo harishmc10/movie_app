@@ -16,7 +16,7 @@ In Desktop
 ![GitHub Logo](/img_admin2.jpg)
 
 ##database
-![GitHub Logo](/img_database.jpg)
+/img_database.jpg
 
 ## Setup
 
