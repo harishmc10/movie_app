@@ -6,10 +6,17 @@ Here --> https://movie-cafe.herokuapp.com/
 
 ## Screen Shot Of App
 In Desktop
-![GitHub Logo](/img.jpg)
+![GitHub Logo](/img_intro2.jpg)
 
-In Mobile
-![GitHub Logo](/mobile.png)
+##trailer
+![GitHub Logo](/img_trailer.jpg)
+
+
+##amin side
+![GitHub Logo](/img_admin2.jpg)
+
+##database
+![GitHub Logo](/img_database.jpg)
 
 ## Setup
 
